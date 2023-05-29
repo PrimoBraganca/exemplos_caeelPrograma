@@ -1,3 +1,7 @@
+body {
+  background-color: aqua;
+}
+
 .texto {
   margin-left: auto;
   margin-right: auto;
@@ -18,57 +22,7 @@
   justify-content: center;
 }
 
-.botao1 {
-  display: flex;
-  justify-content: center;
-}
-
-.texto2 {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.texto2 {
-  display: flex;
-  justify-content: center;
-}
-
-.img2 {
-  display: flex;
-  justify-content: center;
-}
-
-.audio2 {
-  display: flex;
-  justify-content: center;
-}
-
-.botao2 {
-  display: flex;
-  justify-content: center;
-}
-
-.texto2 {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.texto3 {
-  display: flex;
-  justify-content: center;
-}
-
-.img3 {
-  display: flex;
-  justify-content: center;
-}
-
-.audio3 {
-  display: flex;
-  justify-content: center;
-}
-
-.botao3 {
+.botao {
   display: flex;
   justify-content: center;
 }
