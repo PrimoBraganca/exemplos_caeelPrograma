@@ -1,15 +1,13 @@
 body {
-  background-color: aqua;
+  background-image: url("PRIMO/imatgens/truco.jpg");
 }
 
 .texto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.texto {
   display: flex;
   justify-content: center;
+  color: aqua;
 }
 
 .img {
